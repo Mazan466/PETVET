@@ -19,19 +19,19 @@ Instrukcja Laboratorium 1 wymaga, aby każdy członek zespołu najpierw samodzie
 
 | ID | Wymaganie zapisane przez zespół bez AI |
 |---|---|
-| V0-01 | [UZUPEŁNIĆ SAMODZIELNIE] |
-| V0-02 | [UZUPEŁNIĆ SAMODZIELNIE] |
-| V0-03 | [UZUPEŁNIĆ SAMODZIELNIE] |
-| V0-04 | [UZUPEŁNIĆ SAMODZIELNIE] |
-| V0-05 | [UZUPEŁNIĆ SAMODZIELNIE] |
-| V0-06 | [UZUPEŁNIĆ SAMODZIELNIE] |
-| V0-07 | [UZUPEŁNIĆ SAMODZIELNIE] |
-| V0-08 | [UZUPEŁNIĆ SAMODZIELNIE] |
-| V0-09 | [UZUPEŁNIĆ SAMODZIELNIE] |
-| V0-10 | [UZUPEŁNIĆ SAMODZIELNIE] |
+| V0-01 | System powinien umożliwiać rejestrację właścicieli zwierząt. |
+| V0-02 | System powinien umożliwiać dodawanie zwierząt do bazy. |
+| V0-03 | System powinien umożliwiać umawianie wizyt. |
+| V0-04 | System powinien sprawdzać dostępność lekarza. |
+| V0-05 | System powinien umożliwiać odwoływanie wizyt. |
+| V0-06 | System powinien przechowywać historię leczenia zwierzęcia. |
+| V0-07 | Lekarz powinien móc zapisywać diagnozy. |
+| V0-08 | System powinien przechowywać informacje o szczepieniach. |
+| V0-09 | System powinien umożliwiać rozliczanie wizyt gotówką. |
+| V0-10 | System powinien umożliwiać wysyłanie przypomnień e-mail. |
 
-Data sporządzenia wersji 0: [WPISAĆ]  
-Potwierdzenie, że lista powstała przed użyciem AI: [POTWIERDZIĆ]
+Data sporządzenia wersji 0: 22.11.2026  
+Potwierdzenie, że lista powstała przed użyciem AI: Si :)
 
 ## 4. Historyjki użytkownika
 
