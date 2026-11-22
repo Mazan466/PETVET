@@ -40,3 +40,9 @@ Wymagany Python 3 i biblioteka standardowa (Tkinter). Uruchomienie przykładowo:
 python petvet.py
 ```
 Aplikacja zapisuje dane w pliku `petvet_dane.json` obok skryptu (po poprawnym ustawieniu ścieżki).
+
+## Uzupełnienia na podstawie opisu wycinka rzeczywistości
+
+Dokumenty w katalogu `docs` zostały rozwinięte na podstawie pliku „PETVET_opis_wycinka_rzeczywistosci_Kuśmirek_Mazanek.pdf”. Dodano szczegółowy przebieg pięciu procesów, dane i reguły domenowe, mapowanie historyjek na opis źródłowy oraz logiczny szkic ERD.
+
+Sekcje oznaczone jako wymagające rzeczywistej pracy zespołu pozostają do uzupełnienia: wersja 0 (bez AI), wyniki wywiadu, faktyczny rezultat event stormingu, rzeczywiste poprawki i recenzja krzyżowa. Nie należy wpisywać tam fikcyjnych działań.
